@@ -311,8 +311,8 @@ section .title::after {
 }
 .services .title::after,
 .teams .title::after {
-  background: #111;
-  content: "What We Provide";
+/*   background: #111;
+  content: "What We Provide"; */
 }
 .services .serv-content .card {
   width: calc(33% - 20px);
@@ -365,10 +365,10 @@ section .title::after {
 }
 
 /* teams section styling */
-.teams .title::after {
+/* .teams .title::after {
   content: "Head of Department";
   color: skyblue;
-}
+} */
 .teams .carousel .card {
   background: #222;
   margin-top: 15px;
